@@ -1,8 +1,8 @@
-#loginpage{
+/* #loginpage{
     width: 20em;
     margin-left: auto;
     margin-right: auto;
-}
+} */
 #page{
     background-color: #efefef;
     max-width: 75em;
@@ -13,10 +13,10 @@
 form input, form label{
     display: block;
 }
-form input{
+/* form input{
     margin-bottom: 1em;
-    padding: 0.5em;
-}
+    padding: 0.5em; 
+}*/
 
 .success{
     background-color: green;
